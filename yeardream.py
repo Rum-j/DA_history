@@ -13,7 +13,7 @@ for i in range (1,11):
 		print(i)
 print("second task")
 
-for j in range (1, 21):
+for j in range (1, 31):
   if j%3 == 0:
     print("year")
   elif j%5 == 0 :
